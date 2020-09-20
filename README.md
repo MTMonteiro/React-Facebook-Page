@@ -1,4 +1,4 @@
-# Tutorial Content Loading and Infinete Scroll ReactJS⚛️
+# Content Loading and Infinete Scroll ReactJS⚛️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
